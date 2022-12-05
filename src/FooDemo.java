@@ -31,6 +31,5 @@ public class FooDemo {
                 throw new RuntimeException(e);
             }
         }).get();
-
     }
 }
